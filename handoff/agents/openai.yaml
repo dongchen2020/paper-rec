@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Draft a complete handoff note with main-name prompt"
+  default_prompt: "Use $handoff to draft a handoff note and ask for the main name first if it is missing."
