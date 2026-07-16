@@ -1,0 +1,3 @@
+interface:
+  display_name: "Paper Rec"
+  short_description: "Search and recommend academic papers with current sources"
